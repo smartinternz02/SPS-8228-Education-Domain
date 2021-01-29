@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6" created="2021-01-29 17:24" -->
+	<!-- generator="WordPress/5.6" created="2021-01-29 17:26" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Adiuva</title>
 	<link>https://114.020.myftpupload.com</link>
 	<description>Education For All!</description>
-	<pubDate>Fri, 29 Jan 2021 17:24:30 +0000</pubDate>
+	<pubDate>Fri, 29 Jan 2021 17:26:11 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://114.020.myftpupload.com</wp:base_site_url>
@@ -41,453 +41,107 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 
 		<item>
-		<title>Hello Students!</title>
-		<link>https://114.020.myftpupload.com/2021/01/24/hello-world/</link>
-		<pubDate>Sun, 24 Jan 2021 13:49:24 +0000</pubDate>
+		<title>Product 1</title>
+		<link>https://114.020.myftpupload.com/product/product-1__trashed/</link>
+		<pubDate>Mon, 25 Jan 2021 10:11:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http:/?p=1</guid>
+		<guid isPermaLink="false">https://114.020.myftpupload.com?post_type=product&#038;p=205</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Welcome to Adiuva the helping hand for all your needs. We work to provide you will courses from various instructors at minimal prices.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Thank you</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2021-01-24 13:49:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-01-24 13:49:24]]></wp:post_date_gmt>
+		<wp:post_id>205</wp:post_id>
+		<wp:post_date><![CDATA[2021-01-25 15:41:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-01-25 10:11:46]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wppb_current_post_editor]]></wp:meta_key>
-		<wp:meta_value><![CDATA[gutenberg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[281]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2021-01-24 13:49:24]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2021-01-24 13:49:24]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title>7 Important Reasons Why You Should Use Python</title>
-		<link>https://114.020.myftpupload.com/2021/01/25/7-important-reasons-why-you-should-use-python/</link>
-		<pubDate>Mon, 25 Jan 2021 04:15:42 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://114.020.myftpupload.com?p=164</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Python is a powerful and high-level programming language that lets you develop a wide variety of applications, including web applications, software and game development, network programming, graphical user interfaces (GUIs), scientific and numeric applications and more. According to&nbsp;<a href="https://twitter.com/chiefdoofficer?lang=en">Cuong Do</a>, Software Architect of YouTube, “ Python allows us to produce maintainable features in record times, with a minimum of developers”. There are many&nbsp;<a href="https://www.python.org/success-stories/">success stories with Python</a>, showing that this programming language is helping numerous enterprises in achieving their business goals.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>According to&nbsp;<a href="https://pypl.github.io/PYPL.html">PYPL Index</a>&nbsp;and&nbsp;<a href="https://www.tiobe.com/tiobe-index/">TIOBE Index</a>, Python is the most popular programming language in 2019. PYPL has placed Python in the first position and&nbsp;<a href="https://www.tiobe.com/tiobe-index/python/">TIOBE has placed Python in 3rd position</a>&nbsp;in terms of popularity among developers and enterprises.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"width":425,"height":305} -->
-<figure class="wp-block-image is-resized"><img src="https://www.zibtek.com/blog/content/images/2020/04/image-7.png" alt="" width="425" height="305"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":3} -->
-<h3 id="why-you-should-use-python">Why you should use Python</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>In this article, we have listed some key points that will help you understand the benefits of Python over other programming languages. To understand why you should use Python, read the following:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3 id="1-code-is-easy-to-read-use-and-maintain">1. Code is easy to read, use and maintain</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The effectiveness of the application greatly depends on the quality of its source code.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><strong><em>A robust application needs a powerful programming language that is easy to read, update and maintain. Python incorporates all these qualities. It offers everything (including a set of huge libraries and utilities) that are needed to build amazing applications, utilities and frameworks. &nbsp;</em></strong></p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p><strong>Some major benefits that Python offers to the developers and the organization:</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Python has a clean and structured code base, making the updation and maintenance tasks of the software easier for developers. They don’t require developers to write additional code, and this, in turn, saves them effort and valuable time. Hence, they can utilize their time on something more productive for the organization.</li><li>The syntax rule of Python is composed mainly of English keywords, emphasizing the code readability. Code readability plays a major role while building the application. Customers' requirements can change when the software gets to employed in the real-world. &nbsp;With Python, you don’t need to worry about the changing requirements. Even if developers who have previously built the application have left the organization, the new developers can easily read and understand the original version of the code and implement the new requirements accordingly.</li></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading {"level":3} -->
-<h3 id="2-supports-multiple-programming-paradigms">2. Supports multiple programming paradigms</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Python is constructed with the aim to help developers write logical and clean code for both large-scale and small-scale projects.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><strong><em>An important feature that makes Python suitable for large and complex applications is it supports multiple programming paradigms (meaning ways to classify programming languages on the basis of their features).</em></strong></p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>It supports the following programming paradigms:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"textColor":"heading-color"} -->
-<ul class="has-heading-color-color has-text-color"><li><strong>Procedural programming</strong>: It is based on the pattern or procedures that consist of any series of computational steps. Its main objective is to focus on the program's goal, then identify the problems and break them into smaller and more manageable components (called modules) in order to solve the main goal. In this, the program is planned out in a storyboard style.</li><li><strong>Object-oriented programming</strong>: It is based on the concept of object and class. In simple words, objects and classes are the sets of data that contains fields, variable data types, etc., in the form of code. &nbsp;Object-oriented programming initiates with planning and diagramming the program. Then objects and classes are constructed, functions are built and data fields are placed, beginning to take the development environment.</li><li><strong>Functional programming:</strong>&nbsp;In functional programming, developers try to bind everything in pure mathematical computational style. It involves the evaluation of complex expressions. In this, programmers mainly focus on the desired result, not on how to solve or compute it.</li></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>It is an undeniable fact that one programming paradigm cannot solve all problems efficiently. The support of these multi programming paradigms (procedural, object-oriented and functional programming) makes Python a popular programming language among enterprises. It also features automatic memory management that makes it even more powerful than other programming languages in the market.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3 id="3-compatible-with-major-platforms-and-systems">3) Compatible with Major Platforms and Systems</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Python supports all the major operating systems and architectures. Let’s have a look:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"width":419,"height":231} -->
-<figure class="wp-block-image is-resized"><img src="https://www.zibtek.com/blog/content/images/2019/10/7-reasons.JPG" alt="" width="419" height="231"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>With this support of operating systems and architectures, Python code can be run on any of these platforms. Being an interpreted programming language, Python’s code is executed line-by-line directly without a prerequisite to compile the human-written code into machine instructions first. This is in contrast with compiled programming languages, such as C, C++, Java, etc. Compiled programming languages are those in which a compiler converts the human-written code into machine instructions all at once, instead of line-by-line and then the execution of code takes place.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Being an interpreted language, Python offers the following benefits over compiled programming languages such as C, C++, Java, etc:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>It is easier to run the same Python program on multiple platforms, including Windows, Linux, macOS, etc. You just need to make sure that Python is installed on the computer where you are running the code. Whereas in compiled programming languages such as C, C++, and Java, we cannot copy the compiled program from the Linux computer to the Windows computer and expect the program to run successfully. Unlike interpreted languages (like Python), in compiled programming languages, we need to recompile the program again on the Windows computer in order to run the same program successfully on a different operating system.</li><li>Since Python code is executed line-by-line, instead of all at once, it is easy to make alterations in the code and run the modified code and see the impact of changes immediately in the result. This makes Python suitable for ad-hoc requests without increasing the development time. &nbsp;Whereas, with compiled programming languages, making changes is not as easy as in Python. You need to recompile and redeploy the program after making changes.</li></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading {"level":3} -->
-<h3 id="4-large-standard-library">4. &nbsp;Large standard library</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Python has a robust and large standard library that makes it stand out from other programming languages. Its standard library contains a wide range of modules, operations and web service tools that you can select and use for your applications without writing additional code.<br><strong>Benefits Python offers with its huge standard library:</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>The standard library provides low-level details to developers, therefore, developers can focus on the logic of the application rather than looking for low-level details for the apps.</li><li>Since most developers are familiar with the standard library,the code provided by Python’s standard library is more maintainable and can easily be reused across the projects. This enables the new developers joining the organization to easily understand the on-going projects, shortening their learning curve.</li><li>Python’s standard library is well-optimized and tested, proving you the reliable and effective code for your application.</li></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading {"level":3} -->
-<h3 id="5-cost-effective-approach">5. Cost-effective approach</h3>
-<!-- /wp:heading -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><em><strong>Python is an open-source programming language, meaning no licensing fees are required to use it. This makes Python the most reasonable and affordable choice for enterprises.</strong></em></p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>It offers various open-source frameworks, development tools, and libraries that significantly reduce the development cost and development time.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Examples of open-source Python frameworks and toolkits:</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"width":562,"height":158} -->
-<figure class="wp-block-image is-resized"><img src="https://www.zibtek.com/blog/content/images/2019/10/7-reasons2.JPG" alt="" width="562" height="158"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":3} -->
-<h3 id="6-simplifies-the-complexities-of-software-development">6. Simplifies the complexities of software development</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Python is designed to build a wide variety of application domains, including web-based applications, desktop applications, complex scientific and numeric applications and more. It is built with features to facilitate&nbsp;<a href="https://www.tableau.com/learn/articles/data-visualization">data visualization</a>&nbsp;(generating graphical representation of data to perform data analytics) and&nbsp;<a href="https://www.guru99.com/what-is-data-analysis.html">data analysis</a>&nbsp;(the process of analysis, cleansing, sorting and modeling data to extract meaningful insights). It provides various APIs and data visualization libraries that enable engineers to represent data in a more effective and appealing way. This is why many&nbsp;<a href="https://www.zibtek.com/blog/the-state-of-cloud-business-intelligence-2019/">Business Intelligence (BI)</a>&nbsp;and data science tools use Python as their programming language. It can be used to create custom big data solutions without requiring you to invest extra effort and time. Python can also be used to carry out certain tasks related to other technologies as well, such as Natural Language Processing and&nbsp;<a href="https://www.zibtek.com/blog/top-artificial-intelligence-trends-to-watch-out-for-in-2019/">Artificial Intelligence (AI)</a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3 id="7-adoption-of-test-driven-development">7. &nbsp;Adoption of Test-Driven Development</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Python supports the test-driven development approach. Before proceeding further, you should know what a test-driven approach means and how it is better from the traditional testing method:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3 id="what-is-a-test-driven-development-tdd-approach"><strong>What is a test-driven development (TDD) approach?</strong></h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Test-driven development: from this term only it is clear that TDD lets you test drive your design and development of the application. It means building tests that will specify and validate what the code will do, what will be the next step, what the design is, etc.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>TDD mainly involves the following phases:</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"ordered":true} -->
-<ol><li>Write the test cases before the development phase (when developers start coding for an application).</li><li>Write the code so that it can pass the test cases.</li><li>If any error encountered in the code while testing, then make modifications to the code.</li><li>Run the code again to pass the test cases.</li><li>If code passes the test cases, then stop; otherwise, repeat step 3.</li></ol>
-<!-- /wp:list -->
-
-<!-- wp:heading {"level":3} -->
-<h3 id="how-is-tdd-better-than-traditional-testing-methodology"><strong>How is TDD better than traditional testing methodology?</strong></h3>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul><li>In the traditional testing method, test cases are developed and implemented after writing the code. This impacts the speed of product delivery. Whereas, in TDD, test cases are developed and implemented before writing the code. If the test case fails, then developers have to write or modify only that minimum amount of code to pass that test case. This, in turn, avoids the duplication of code, makes the code simpler, cleaner and bug-free.</li><li>Unlike a traditional testing method, TDD ensures 100% test coverage. No single line of code is left untested, delivering an accurate and error-free application.</li></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Now, coming back to Python support for TDD, Python makes it easy for the development team to perform coding and testing simultaneously by adopting TDD methodology. It helps in shortening the development and testing cycle and reducing the time-to-market for your product.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>164</wp:post_id>
-		<wp:post_date><![CDATA[2021-01-25 09:45:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-01-25 04:15:42]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[7-important-reasons-why-you-should-use-python]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="programming"><![CDATA[Programming]]></category>
-		<category domain="post_tag" nicename="python"><![CDATA[Python]]></category>
-		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wppb_current_post_editor]]></wp:meta_key>
-		<wp:meta_value><![CDATA[gutenberg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[21]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[140]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>4</wp:comment_id>
-			<wp:comment_author><![CDATA[admin]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[aryaanisha1@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http:</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[127.0.0.1]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2021-01-29 12:30:51]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2021-01-29 07:00:51]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Good One!]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>1</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title>5 REASONS WHY WEB DEVELOPMENT IS STILL IMPORTANT</title>
-		<link>https://114.020.myftpupload.com/?p=168</link>
-		<pubDate>Mon, 25 Jan 2021 04:44:52 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://114.020.myftpupload.com?p=168</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Contrary to what some may believe, web development is still an extremely vital part of any marketing strategy. A common belief today is that social media platforms have replaced the need for a conventional website but that simply is not the case.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">It’s true that in recent years there has been a shift toward online interactions with social media sites, mobile devices and apps topping the charts. As a result, the way people access the web to shop, chat and find information has also changed dramatically. Businesses of all shapes and sizes have had to adapt their web presence to stay in front of their consumers.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">So with all the digital and social advancements, why is web development still important?&nbsp;These 5 reasons outline why your website is key to building a successful online presence for your business.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"ordered":true,"textColor":"mejor-color"} -->
-<ol class="has-mejor-color-color has-text-color"><li><strong>MAINTAINING OWNERSHIP</strong></li></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">It’s critical to protect your brand identity by owning your web address and website. This will avoid surrendering control of your brand to a third-party website and their ads. Remember, owning your own domain name and using a reputable host company is just as important as choosing the domain name itself. Owning your domain name is vital to your business, brand and online presence. Not only does it build your brand, but it also makes people more likely to engage with your website.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"ordered":true,"start":2,"textColor":"mejor-color"} -->
-<ol start="2" class="has-mejor-color-color has-text-color"><li><strong>CONTROL YOUR CONTENT WITH GOOD WEB DEVELOPMENT</strong></li></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">The old adage that “Content is King” still rings true to this day, possibly even more than before. How you present your content is just as important. Make sure content is original, relevant and interesting to effectively get your message across. With good web development, you control the user experience, manage content relevancy and your conversion process.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Good content is what sets your website apart from everyone else and delivers the right message to your customers. Website content always begins with proper market research where you identify your high-value customers (HVC). From there you can start&nbsp;<a href="http://blog.wsi-emarketing.com/creating-buyer-personas/?utm_source=from_blog&amp;utm_medium=02_04_14&amp;utm_campaign=blog_post%20" target="_blank" rel="noreferrer noopener">defining personas for your website</a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"ordered":true,"start":3,"textColor":"mejor-color"} -->
-<ol start="3" class="has-mejor-color-color has-text-color"><li><strong>CREATE A CONTENT HUB</strong></li></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">It’s no secret that blogs are fundamental to your digital marketing strategy and should be the focal point for all your content marketing activities. Use your social media presence as a means to engage your audience and ultimately bring visitors to your website.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Your company blog will also increase the number of relevant inbound links that send readers to the main parts of your website. This, along with SEO, will increase traffic and the duration of each visit to your site.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"align":"center","id":6017,"width":357,"height":238,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><a href="http://blog.wsi-emarketing.com/wp-content/uploads/2018/01/social-media-2786261_640.jpg"><img src="https://blog.wsi-emarketing.com/wp-content/uploads/2018/01/social-media-2786261_640.jpg" alt="web development" class="wp-image-6017" width="357" height="238"/></a></figure></div>
-<!-- /wp:image -->
-
-<!-- wp:list {"ordered":true,"start":4,"textColor":"mejor-color"} -->
-<ol start="4" class="has-mejor-color-color has-text-color"><li><strong>ATTRACTING SEARCH TRAFFIC</strong></li></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Good web development means a fully optimised website which plays a vital role in attracting valuable search engine traffic. Consumers are essentially still looking for information by using keyword searches in Google and other search engines. Implementing the right keywords and topics on your website will significantly help visitors find your site.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Website traffic is an important indicator and driver of business growth and really helps you to:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Determine ROI to see how well your marketing is working</li><li>Gather insight into your audience to make informed decisions</li><li>Improve your SEO and search engine credibility</li><li>Generate more leads, increase conversions, and get more customers overall</li></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">There are many SEO tactics you can perform on every page of your website to increase their search engine rankings and get more visitors. Take a look at one of our recent blog posts on&nbsp;<a href="http://blog.wsi-emarketing.com/adaptiveseo-top-google-rankings/?utm_source=from_blog&amp;utm_medium=02_04_14&amp;utm_campaign=blog_post%20" target="_blank" rel="noreferrer noopener">Adaptive SEO Best Practice For Top Google Rankings</a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"ordered":true,"start":5,"textColor":"mejor-color"} -->
-<ol start="5" class="has-mejor-color-color has-text-color"><li><strong>MONITOR, TWEAK AND IMPROVE</strong></li></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Effective web development gives you the ability to accurately analyse website statistics. It includes measuring conversion rates, monitoring backlinks and assessing visitor engagement, all of which are essential to improve all your online marketing activities. The goal is to ultimately achieve a return on your web investment and integrating Google Analytics, Google Webmaster tools and a CMS will certainly help.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">If you are serious about digital marketing and truly want to achieve success, don’t neglect your business website; it’s your most valuable online asset. Just take a look at the recent WMA Awards where WSI’s website was among the winning submissions.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>168</wp:post_id>
-		<wp:post_date><![CDATA[2021-01-25 10:14:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-01-25 04:44:52]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[5-reasons-why-web-development-is-still-important__trashed]]></wp:post_name>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[product-1__trashed]]></wp:post_name>
 		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="programming"><![CDATA[Programming]]></category>
-		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
-		<category domain="post_tag" nicename="technology"><![CDATA[Technology]]></category>
-		<category domain="post_tag" nicename="webdevelopment"><![CDATA[WebDevelopment]]></category>
+										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wppb_current_post_editor]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wppb_builder_activated]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[21]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[200]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4.9.1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_is_wppb_editor]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wppb_content]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wppb_page_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.wppb-builder-container#wppb-builder-container .wppb-row-parent > .wppb-container, .wppb-carousel-content-wrap .wppb-container{ max-width: 1140px }.wppb-builder-container#wppb-builder-container > .wppb-row-parent > .wppb-container,.wppb-builder-container#wppb-builder-container  .wppb-row-placeholder > .wppb-row-parent > .wppb-container,.wppb-carousel-content-wrap .wppb-container, .wppb-builder-container .wppb-column-parent-view { padding-left: 15px; }.wppb-builder-container#wppb-builder-container > .wppb-row-parent > .wppb-container, .wppb-builder-container#wppb-builder-container .wppb-row-placeholder > .wppb-row-parent > .wppb-container,.wppb-carousel-content-wrap .wppb-container, .wppb-builder-container .wppb-column-parent-view{ padding-right: 15px; }  .wppb-container > .wppb-row { margin-left: -15px; }.wppb-container > .wppb-row { margin-right: -15px; } .wppb-builder-container .wppb-column-parent-editor .wppb-column { margin-left: 15px; } .wppb-builder-container .wppb-column-parent-editor .wppb-column { margin-right: 15px; }]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
@@ -495,508 +149,340 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1611598808]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1611602883]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5-reasons-why-web-development-is-still-important]]></wp:meta_value>
+		<wp:meta_value><![CDATA[product-1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>7 Effective Tips to Crack IIT JEE Without Coaching</title>
-		<link>https://114.020.myftpupload.com/2021/01/25/7-effective-tips-to-crack-iit-jee-without-coaching/</link>
-		<pubDate>Mon, 25 Jan 2021 06:42:38 +0000</pubDate>
+		<title>Membership</title>
+		<link>https://114.020.myftpupload.com/product/product-2/</link>
+		<pubDate>Mon, 25 Jan 2021 10:14:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://114.020.myftpupload.com?p=193</guid>
+		<guid isPermaLink="false">https://114.020.myftpupload.com?post_type=product&#038;p=206</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"textColor":"heading-color"} -->
-<p class="has-heading-color-color has-text-color"><em>The IIT JEE Exam is just a few months away, and I am still at home with no coaching!</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"width":526,"height":263,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://s3-ap-south-1.amazonaws.com/blogmindler/bloglive/wp-content/uploads/2018/02/06144432/Preparing-for-IIT-JEE-without-Coaching-1024x512.png" alt="" width="526" height="263"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>Those of you aspiring to pursue engineering through the IITs need to clear the two most important exams – JEE Main &amp; JEE Advanced. Approximately 13 lacs people appear in the JEE exam every year for admission to prestigious colleges such as IITs, NITs, Indian Institutes of Information Technology (IIITs) and other 19 Centrally Funded Technical Institutions (CFTIs).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>JEE is certainly one of the toughest entrance examinations, and thus requires the right preparation strategies. If you are someone who has not yet begun preparing for the exam, and have had little or no formal coaching for it, you can still get through the exam by preparing at home.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Coaching, while important, is not necessary to crack the JEE. In this article, I will take you through some tips and tricks to help you prepare for the IIT – JEE exam at home.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2>Joint Entrance Examination (JEE) – Some Important Facts</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Joint Entrance Examination, commonly termed as JEE, is a national level engineering exam. It was first conducted in 2002 and all IITs, NITS, etc. accept the JEE Score to admit students to their undergraduate courses. The JEE has 2 papers, JEE Main and JEE Advanced. JEE Main is an entry-level exam with a lower level of difficulty. Its score is accepted by NITs, IIITs and other prestigious institutions. Once you clear the JEE Main, you are required to sit for the JEE Advanced, which is compulsory if you want a seat in the IITs.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Before you move on to the preparation, it is important to understand the structure of the exam.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>The JEE Main Paper 1 is an objective type test conducted in both online and offline modes and assesses students on Physics, Chemistry, and Mathematics.</li><li>There are 90 questions in total with each section consisting of 30 questions each.</li><li>Each question is for 4 marks, and hence each section carries 120 Marks. The whole exam is for 360 marks.</li><li>The JEE Advanced has two papers, and the pattern for the exam changes from year to year.</li><li>JEE questions are based on the NCERT syllabus with an advanced level of difficulty. The trick to solve the exam is comprehensive knowledge and speed. You are required to solve a question within one to two minutes.</li><li>In JEE 2018, no weightage will be given to class 12th marks. However, you require at least 75% in your class 12th in order to be eligible.</li></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading -->
-<h2>Strategies and Tips to Crack IIT JEE without Coaching</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Taking small steps and following the right strategies can make a huge difference. From your study pattern and reference books to the way you solve the paper, all can go a long way in helping you achieve your IIT dream. Here are a few tips you should follow in your preparation, which if done properly, can be game changers.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4>1. Start with the NCERT</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>NCERT books form the base for the JEE entrance exams, especially for the JEE Main. A common mistake made by many students is to start with reference books directly while their concepts and theoretical knowledge are not very strong. NCERT books will give you a firm grounding of concepts and, thus, are the best books to start your preparation. It is also worth noting that 60-70% of the JEE Main paper is based on NCERT books. However, they are not enough for practical questions.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4>2. Have a Curious Mind</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>You should have a curious mind and ask questions whenever you are reading a particular theory. You should be able to question every concept you are reading to gain a better understanding of each concept. Questioning concepts will help you widen your understanding and will, thus, help you solve various twisted questions based on the same theory. You can never solve problems if you are simply mugging concepts.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4>3. Solve with the Multiple Solution Technique</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Whenever you are solving questions of a particular chapter, don’t try to solve 100 questions for each topic, rather try solving a particular question in multiple ways. For example: In Mathematics, calculus problems can be solved using co-ordinate geometry and any complex number problem can be solved using vector calculus. This will help you in learning alternative methods of approaching a problem. In the actual paper, there will be times when you won’t be able to solve a question using your preferred method. Knowing multiple methods of solving a question will help you arrive at result even if another approach is required.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4>4. Revise Wisely</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Students generally either revise too much or they don’t revise at all. Once you are through with a chapter, revise it thoroughly but don’t spend more than 2-3 hours on the revision. Amplify your revision by solving practice questions on the topic from reference books instead. This will help you immediately understand the concepts you have just studied.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4>5. Manage your Time Efficiently</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>No matter how many efforts you put in or how many papers you solve, if you do not utilize your time effectively, you will never be able to complete and practice in time. To keep a better track of the time you allot to various chapters, revision, and practice, you can make use of time management apps. Even a simple tool like Google Calendar can be used to allot time or days to chapters/sections. It can be more effective than a printed calendar since it will give you reminders for different events.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Recommended Read:</strong>&nbsp;<a href="https://www.mindler.com/blog/stress-time-management-exams-tips/" target="_blank" rel="noreferrer noopener">Simple Tips To Reduce Stress And Manage Your Time Before Exams</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4>6. Solve Multiple Mock Tests</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Practice at home is the most effective when you test yourself at regular intervals. Now, the question is how to maximize your benefit from these mock papers. The common mistake made by most students is they never review what they have solved. You should spend at least 6-7 hours to review the process.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Whenever you are solving a paper, try to analyze the questions or chapters you are facing a problem with and the areas you are quick to solve. After the first mock test, you will have a list of your strong areas as well as the topics that require more attention. Utilise these insights to work on the areas you lack and with each mock test you would find yourself getting better.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Also, develop a smart strategy while solving the paper. 50% of the questions in the paper have a low difficulty level, so solve them first. Never attempt the paper in a sequence and avoid the questions you face difficulty in while solving your mock papers.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4>7. Choose the Right Reference Books</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Once you are thorough with your NCERT books, move on to reference books. These books cover topics from the basic to advanced level application-based questions. Reference books will help you greatly in building knowledge about concepts through practice. These are specifically designed for JEE preparation by the top experts in the market.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Some recommended reference books for JEE preparation:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4>Physics</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>• NCERT Physics – Class 11 and 12<br>• Concepts of Physics (Vol 1 &amp; 2) – H.C. Verma (Highly Recommended)<br>• Understanding Physics Series (5 books) – D.C. Pandey<br>• Problems in General Physics – I.E. Irodov (Arihant Publications) (Only for JEE Advanced)</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4>Chemistry</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>• NCERT Chemistry –Class 11 and 12<br>• Organic Chemistry and Inorganic Chemistry – O.P. Tandon<br>• Organic Chemistry –Jagdamba Singh</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4>Mathematics</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>• Course in Mathematics for IIT-JEE – Tata McGraw Hill<br>• Mathematics for Class 11 and 12 – R.D. Sharma<br>• Coordinate Geometry for IIT-JEE – S.K. Goyal<br>• Differential Calculus for IIT-JEE – Amit Agarwal</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2>When to Call it off?</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>No one is a better judge than you. Now as your class 12th is ending, you can easily take a call on your chances of cracking the exam in a few months. The qualifying marks for the JEE Main are generally around 85-90. Even after spending hours on revision and solving multiple mock tests you are scoring around 80 on the mocks, it is not a very high score.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>You would need at least a score of 170 to get into a centrally funded college. If you are getting 35%, you should take a call if you can manage 60% or not. If you cannot, you should explore other career options beyond engineering too to keep your options open.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>193</wp:post_id>
-		<wp:post_date><![CDATA[2021-01-25 12:12:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-01-25 06:42:38]]></wp:post_date_gmt>
+		<wp:post_id>206</wp:post_id>
+		<wp:post_date><![CDATA[2021-01-25 15:44:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-01-25 10:14:48]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[7-effective-tips-to-crack-iit-jee-without-coaching]]></wp:post_name>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[product-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="iit"><![CDATA[IIT]]></category>
-		<category domain="post_tag" nicename="iit"><![CDATA[IIT]]></category>
-		<category domain="post_tag" nicename="jee"><![CDATA[Jee]]></category>
+										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wppb_current_post_editor]]></wp:meta_key>
-		<wp:meta_value><![CDATA[gutenberg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[22]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[110]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[280]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>5 REASONS WHY WEB DEVELOPMENT IS STILL IMPORTANT</title>
-		<link>https://114.020.myftpupload.com/2021/01/25/5-reasons-why-web-development-is-still-important/</link>
-		<pubDate>Mon, 25 Jan 2021 18:21:37 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://114.020.myftpupload.com?p=214</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Contrary to what some may believe, web development is still an extremely vital part of any marketing strategy. A common belief today is that social media platforms have replaced the need for a conventional website but that simply is not the case.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">It’s true that in recent years there has been a shift toward online interactions with social media sites, mobile devices and apps topping the charts. As a result, the way people access the web to shop, chat and find information has also changed dramatically. Businesses of all shapes and sizes have had to adapt their web presence to stay in front of their consumers.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">So with all the digital and social advancements, why is web development still important?&nbsp;These 5 reasons outline why your website is key to building a successful online presence for your business.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"ordered":true,"textColor":"mejor-color"} -->
-<ol class="has-mejor-color-color has-text-color"><li><strong>MAINTAINING OWNERSHIP</strong></li></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">It’s critical to protect your brand identity by owning your web address and website. This will avoid surrendering control of your brand to a third-party website and their ads. Remember, owning your own domain name and using a reputable host company is just as important as choosing the domain name itself. Owning your domain name is vital to your business, brand and online presence. Not only does it build your brand, but it also makes people more likely to engage with your website.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"ordered":true,"start":2,"textColor":"mejor-color"} -->
-<ol start="2" class="has-mejor-color-color has-text-color"><li><strong>CONTROL YOUR CONTENT WITH GOOD WEB DEVELOPMENT</strong></li></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">The old adage that “Content is King” still rings true to this day, possibly even more than before. How you present your content is just as important. Make sure content is original, relevant and interesting to effectively get your message across. With good web development, you control the user experience, manage content relevancy and your conversion process.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Good content is what sets your website apart from everyone else and delivers the right message to your customers. Website content always begins with proper market research where you identify your high-value customers (HVC). From there you can start&nbsp;<a href="http://blog.wsi-emarketing.com/creating-buyer-personas/?utm_source=from_blog&amp;utm_medium=02_04_14&amp;utm_campaign=blog_post%20" target="_blank" rel="noreferrer noopener">defining personas for your website</a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"ordered":true,"start":3,"textColor":"mejor-color"} -->
-<ol start="3" class="has-mejor-color-color has-text-color"><li><strong>CREATE A CONTENT HUB</strong></li></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">It’s no secret that blogs are fundamental to your digital marketing strategy and should be the focal point for all your content marketing activities. Use your social media presence as a means to engage your audience and ultimately bring visitors to your website.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Your company blog will also increase the number of relevant inbound links that send readers to the main parts of your website. This, along with SEO, will increase traffic and the duration of each visit to your site.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"align":"center","id":6017,"width":357,"height":238,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><a href="http://blog.wsi-emarketing.com/wp-content/uploads/2018/01/social-media-2786261_640.jpg"><img src="https://blog.wsi-emarketing.com/wp-content/uploads/2018/01/social-media-2786261_640.jpg" alt="web development" class="wp-image-6017" width="357" height="238"/></a></figure></div>
-<!-- /wp:image -->
-
-<!-- wp:list {"ordered":true,"start":4,"textColor":"mejor-color"} -->
-<ol start="4" class="has-mejor-color-color has-text-color"><li><strong>ATTRACTING SEARCH TRAFFIC</strong></li></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Good web development means a fully optimised website which plays a vital role in attracting valuable search engine traffic. Consumers are essentially still looking for information by using keyword searches in Google and other search engines. Implementing the right keywords and topics on your website will significantly help visitors find your site.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Website traffic is an important indicator and driver of business growth and really helps you to:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Determine ROI to see how well your marketing is working</li><li>Gather insight into your audience to make informed decisions</li><li>Improve your SEO and search engine credibility</li><li>Generate more leads, increase conversions, and get more customers overall</li></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">There are many SEO tactics you can perform on every page of your website to increase their search engine rankings and get more visitors. Take a look at one of our recent blog posts on&nbsp;<a href="http://blog.wsi-emarketing.com/adaptiveseo-top-google-rankings/?utm_source=from_blog&amp;utm_medium=02_04_14&amp;utm_campaign=blog_post%20" target="_blank" rel="noreferrer noopener">Adaptive SEO Best Practice For Top Google Rankings</a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"ordered":true,"start":5,"textColor":"mejor-color"} -->
-<ol start="5" class="has-mejor-color-color has-text-color"><li><strong>MONITOR, TWEAK AND IMPROVE</strong></li></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Effective web development gives you the ability to accurately analyse website statistics. It includes measuring conversion rates, monitoring backlinks and assessing visitor engagement, all of which are essential to improve all your online marketing activities. The goal is to ultimately achieve a return on your web investment and integrating Google Analytics, Google Webmaster tools and a CMS will certainly help.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">If you are serious about digital marketing and truly want to achieve success, don’t neglect your business website; it’s your most valuable online asset. Just take a look at the recent WMA Awards where WSI’s website was among the winning submissions.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>214</wp:post_id>
-		<wp:post_date><![CDATA[2021-01-25 23:51:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-01-25 18:21:37]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[5-reasons-why-web-development-is-still-important]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="programming"><![CDATA[Programming]]></category>
-		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
-		<category domain="post_tag" nicename="webdevelopment"><![CDATA[WebDevelopment]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wppb_current_post_editor]]></wp:meta_key>
-		<wp:meta_value><![CDATA[gutenberg]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[21]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4.9.1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[110]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[36]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title>Which IIT Should I Choose</title>
-		<link>https://114.020.myftpupload.com/2021/01/26/which-iit-should-i-choose/</link>
-		<pubDate>Tue, 26 Jan 2021 05:17:10 +0000</pubDate>
+		<title>Python</title>
+		<link>https://114.020.myftpupload.com/product/python/</link>
+		<pubDate>Fri, 29 Jan 2021 07:20:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://114.020.myftpupload.com?p=235</guid>
+		<guid isPermaLink="false">https://114.020.myftpupload.com?post_type=product&#038;p=244</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:image -->
-<figure class="wp-block-image"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT03zuSkmrpxYMhVANMGbM9gykn3xgm2U79xA&amp;usqp=CAU" alt="How does animation boost students' interest in online courses - ABPEducation"/></figure>
-<!-- /wp:image -->
+		<content:encoded><![CDATA[<div class="font-heading-lg mb-space-sm">
+<div class="font-heading-lg mb-space-sm"><strong>About this course</strong></div>
+Become A Certified Python Developer, Learn and Practice Python Programming 3.9 and Boost your Dev career in a short time!
+<div data-purpose="safely-set-inner-html:trusted-html:content">
 
-<!-- wp:paragraph -->
-<p>Once you have cleared JEE Advanced (and done with the celebration), it is time to choose which IITs and which branches you want to apply for. It is a crucial decision for a future engineer because the IIT and the engineering branch you choose can determine the career path you’ll take and the type of opportunities that come your way.</p>
-<!-- /wp:paragraph -->
+Welcome to The Python Programming Comprehensive Bootcamp.
 
-<!-- wp:paragraph -->
-<p><strong>1. What is my IIT JEE Rank?</strong></p>
-<!-- /wp:paragraph -->
+In this Complete Bootcamp, we’ll teach you everything you need to know to become a professional Python developer.
 
-<!-- wp:paragraph -->
-<p>You will get admission in an IIT based on your JEE Advanced Ranks. Suppose, you want to join Computer Science Engineering in IIT Bombay and there are 110 seats available. Then, you will need to be amongst the Top 110 applicants applying for that particular course in that particular branch - according to their All India Ranks (AIR) or the Category Ranks in the IIT JEE exam. The student with the highest AIR determines the Opening Rank of the program while the student with the lowest AIR accepted by the institute determines the program's Closing Rank.</p>
-<!-- /wp:paragraph -->
+Variables, Representing Data Types and using Computational Power.
 
-<!-- wp:paragraph -->
-<p>The Joint Seat Allocation Authority (JOSAA) offers you the 2017 opening and closing ranks of all the programs available at all the IITs. You can check them category-wise, institute-wise, and program-wise. This will help you determine in which IITs you stand a chance of getting an admission based on your JEE Advanced rank.</p>
-<!-- /wp:paragraph -->
+Data Structure for data organization, management and storage formatting.
 
-<!-- wp:paragraph -->
-<p>For example, for a General category student who wants to take admission in the Computer Science Engineering program at IIT Delhi, the rank range should be between AIR #3 and AIR #104.</p>
-<!-- /wp:paragraph -->
+Practical Flow control and Iterable aspects.
 
-<!-- wp:paragraph -->
-<p><strong>2. Which Engineering Branch should I join?</strong></p>
-<!-- /wp:paragraph -->
+Building software by composing pure functions process.
 
-<!-- wp:paragraph -->
-<p>AICTE recognizes over 200 branches of engineering that are categorized into 34 major engineering branches. Many students consult their friends, parents, teachers, and relatives about which branch suits them best but not everyone has the required knowledge and experience to help you come up with the right branch for you.</p>
-<!-- /wp:paragraph -->
+Object-Oriented Programming model to organize software design.
 
-<!-- wp:paragraph -->
-<p>While it might be sagacious to say that you should select a branch that matches your work interest and future career goals, you might want to join a branch that attracts the highest salary packages or may want to choose a stream that is high in demand in the country you want to settle in. You may consult an ex-IITian who offers academic support to IIT aspirants like you for the engineering branch most suitable for you.</p>
-<!-- /wp:paragraph -->
+Application containers and Handling all files.
 
-<!-- wp:paragraph -->
-<p><strong>3. Which IIT is best in the Branch I want to select?</strong></p>
-<!-- /wp:paragraph -->
+Playing with Exception events and analyzing Errors.
 
-<!-- wp:paragraph -->
-<p>If your rank allows you to choose from more than one IIT in the engineering branch you would like to join, choose the one that is better known for your favorite engineering stream.</p>
-<!-- /wp:paragraph -->
+Lightweight data-interchange format for humans.
 
-<!-- wp:paragraph -->
-<p>Now, this can be a difficult step in your research process. There are simply so many magazines and websites that rank IITs and other premier engineering colleges in India in their own respective ways – and you have no way of knowing which one is correct and which one is just a guesswork of some writer who doesn’t know ABC of engineering.</p>
-<!-- /wp:paragraph -->
+All that with Numerous Exercises and Quizzes.
 
-<!-- wp:paragraph -->
-<p>An assignment help expert offering academic support to MBA students in the US said that he uses many shortcuts to contain meaningful research for his clients in record time. He shared a neat little trick for IIT aspirants to know the best-ranked IIT for their chosen engineering branch quickly and efficiently:</p>
-<!-- /wp:paragraph -->
+By the end of this Bootcamp, you will have the ability to code with Python the right way easily, and with great confidence to create complex applications.
 
-<!-- wp:paragraph -->
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Go to the JOSAA website’s 2017 ranking page mentioned above, and tick off the NITs, GFTIs, and IIITs one by one (in the left column).</p>
-<!-- /wp:paragraph -->
+because this Bootcamp covers all topics from basic to advanced and supported by the instructor assistance and guidance throughout a prepared high-quality training.
 
-<!-- wp:paragraph -->
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Choose the program you want to join (look at the right-hand top corner to make your selection).</p>
-<!-- /wp:paragraph -->
+A demonstration of each point in this Bootcamp and an explanation of all theoretical and practical aspects in an easy way and in an easy language for beginners.
 
-<!-- wp:paragraph -->
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now, copy the results into a spreadsheet. I prefer Excel but you can choose the software of your choice.</p>
-<!-- /wp:paragraph -->
+we will provide you with support, and answer all your questions all the time if you encounter any obstacles during this Bootcamp.
 
-<!-- wp:paragraph -->
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Place the filter on the Opening and Closing Ranks and sort any one of them from low to high. You’ll notice that if the Opening Rank of an institute is low, its Closing Rank will be low too.</p>
-<!-- /wp:paragraph -->
+We are here to help you to get the most of this Bootcamp.
 
-<!-- wp:paragraph -->
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The institutes with the lowest opening and closing ranks will be the highest ranked IITs for the program of your choice.</p>
-<!-- /wp:paragraph -->
+Easily and in no time, you will have all the essential skills that the professional Python developers have.
 
-<!-- wp:paragraph -->
-<p><strong>4. What is the infrastructure available in your targeted IIT?</strong></p>
-<!-- /wp:paragraph -->
+Whether you are a beginner or a professional, this Bootcamp is for you and will change your life and your thinking for the best in the world of software development.
 
-<!-- wp:paragraph -->
-<p>Shiksha has a very interesting search tool for colleges. Choose ‘IIT’ in the college tab, and then, choose ‘Engineering’ stream in the left-hand column. You may then choose the course and the specialization you want to go for.</p>
-<!-- /wp:paragraph -->
+Python is the most popular programming language out there, also it is one of the coolest, and best programming languages in terms of ease and features.
 
-<!-- wp:paragraph -->
-<p>You can see the facilities available in each of the IITs offering the course you’ve chosen right away.</p>
-<!-- /wp:paragraph -->
+It is very easy for you to read the Python code as if you were reading a regular English sentence and you can master it in no time.
 
-<!-- wp:paragraph -->
-<p>You can even compare the institutes on this website and download their brochures for more details.</p>
-<!-- /wp:paragraph -->
+With Python programming language, it is possible to do everything you imagine in the world of programming and data.
 
-<!-- wp:paragraph -->
-<p>You may also want to visit the official websites of your targeted IITs to see the concurrent details about the infrastructure they have.</p>
-<!-- /wp:paragraph -->
+</div>
+<h4><strong>What you’ll learn</strong></h4>
+<ul>
+ 	<li>Master the core Python skills needed to apply for python developer positions.</li>
+ 	<li>Master industry best practices in Python software development from a professional software engineer.</li>
+ 	<li>Go from a total beginner to an advanced python developer.</li>
+ 	<li>A true understanding of how Python works behind the scenes.</li>
+ 	<li>How to think in python like a python expert.</li>
+ 	<li>Variables, Representing Data Types and using Computational Power</li>
+ 	<li>Data Structure for data organization, management and storage formatting</li>
+ 	<li>Practical Flow control and Iterable aspects</li>
+ 	<li>Building software by composing pure functions process</li>
+ 	<li>Object-Oriented Programming model to organize software design</li>
+ 	<li>Application containers and Handling all files</li>
+ 	<li>Playing with Exception events and analyzing Errors</li>
+ 	<li>Lightweight data-interchange format for humans</li>
+ 	<li>Essentials to build Python programs from scratch.</li>
+ 	<li>Get friendly and fast support in the Bootcamp Q&amp;A.</li>
+</ul>
+<h4><strong>Are there any course requirements or prerequisites?</strong></h4>
+<ul>
+ 	<li>No Python prior experience is required to take this Bootcamp</li>
+ 	<li>Computer and Text Editor or IDE or Online Editor</li>
+</ul>
+<h4><strong>Who this course is for:</strong></h4>
+<ul>
+ 	<li>Python new developers</li>
+ 	<li>Programming and software development engineering newbies</li>
+ 	<li>Anyone who wants to dive deeply into Python 3.9 without wasting time</li>
+ 	<li>Python developers who want to master the new features of modern python</li>
+ 	<li>Programmers and developers who know other programming language but are new to python</li>
+</ul>
+</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[<div class="font-heading-lg mb-space-sm">
 
-<!-- wp:paragraph -->
-<p><strong>5. Which IIT branches attract the highest salary packages?</strong></p>
-<!-- /wp:paragraph -->
+Become A Certified Python Developer, Learn and Practice Python Programming 3.9 and Boost your Dev career in a short time!
+<div data-purpose="safely-set-inner-html:trusted-html:content">
 
-<!-- wp:paragraph -->
-<p>Most of the old IITs publish their placement statistics every year. For example, you can see the 2017 placement stats for IIT Delhi. Newspapers, magazines, and websites also publish the highest salary packages or placement details of different institutes each year. You may want to keep an eye on such reports to decide which IIT can be the best launch pad for you four years from now.</p>
-<!-- /wp:paragraph -->
+Welcome to The Python Programming Comprehensive Bootcamp.
 
-<!-- wp:paragraph -->
-<p><strong>6. Which recruiters visit the campus of your targeted IITs?</strong></p>
-<!-- /wp:paragraph -->
+In this Complete Bootcamp, we’ll teach you everything you need to know to become a professional Python developer.
 
-<!-- wp:paragraph -->
-<p>If you have a dream company or dream job in mind, you might also want to pay special attention to the stories about recruiters who visit the IITs. For example, the story in Economic Times published in 2016 emphasized how Japanese recruiters and startups are beelining to get the IIT talent onboard.</p>
-<!-- /wp:paragraph -->
+Variables, Representing Data Types and using Computational Power.
 
-<!-- wp:paragraph -->
-<p><strong>7. Know your Professors</strong></p>
-<!-- /wp:paragraph -->
+Data Structure for data organization, management and storage formatting.
 
-<!-- wp:paragraph -->
-<p>H C Verma, the acclaimed author of ‘Concepts of Physics’ which you must have reading your IIT JEE preparation, retired just last year from IIT Kanpur. You might want to take a look at the department at IIT you want to join and see the most renowned professor under which you may get to study soon.</p>
-<!-- /wp:paragraph -->
+Practical Flow control and Iterable aspects.
 
-<!-- wp:paragraph -->
-<p>Here’s a list of Mechanical Engineering faculty of IIT Bombay. This research is going to be time-consuming but if you find but one teacher who can inspire you or fire you up, you’ll surely achieve what you deserve.</p>
-<!-- /wp:paragraph -->
+Building software by composing pure functions process.
 
-<!-- wp:paragraph -->
-<p>In the end, remember, that the institute you study in only makes it easier for you to find good job opportunities as a fresher and network with the people in ‘power’ in various industries. You can always carve your own path of success through hard work and determination. So, focus on doing your best and making the best of options available to you.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>235</wp:post_id>
-		<wp:post_date><![CDATA[2021-01-26 10:47:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-01-26 05:17:10]]></wp:post_date_gmt>
+Object-Oriented Programming model to organize software design.
+
+Application containers and Handling all files.
+
+Playing with Exception events and analyzing Errors.
+
+Lightweight data-interchange format for humans.
+
+All that with Numerous Exercises and Quizzes.
+
+</div>
+</div>]]></excerpt:encoded>
+		<wp:post_id>244</wp:post_id>
+		<wp:post_date><![CDATA[2021-01-29 12:50:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-01-29 07:20:55]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[which-iit-should-i-choose]]></wp:post_name>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[python]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="iit"><![CDATA[IIT]]></category>
-		<category domain="post_tag" nicename="iit"><![CDATA[IIT]]></category>
-		<category domain="post_tag" nicename="jee"><![CDATA[Jee]]></category>
+										<category domain="product_tag" nicename="programming"><![CDATA[Programming]]></category>
+		<category domain="product_cat" nicename="python"><![CDATA[python]]></category>
+		<category domain="product_tag" nicename="python"><![CDATA[python]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wppb_current_post_editor]]></wp:meta_key>
-		<wp:meta_value><![CDATA[gutenberg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[140]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1000]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[149]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4.9.2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[149]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_product_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[44]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
@@ -1004,229 +490,31 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_tutor_product]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[279]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Differences Between Product Based Companies and Service-Based Companies</title>
-		<link>https://114.020.myftpupload.com/2021/01/26/differences-between-product-based-companies-and-service-based-companies/</link>
-		<pubDate>Tue, 26 Jan 2021 05:27:50 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://114.020.myftpupload.com?p=237</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:image -->
-<figure class="wp-block-image"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200724225318/Difference-Between-a-Product-Based-Company-and-Service-Based-Company.jpg" alt="Difference Between a Product Based Company and Service Based Company -  GeeksforGeeks"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>The most arduous choices are&nbsp;to&nbsp;the questions that tend to bring life-changing decisions, for a fresher it is choosing just the right firm to work for either as a job or as an entrepreneur. No one will ever bear the brunt of your failure, so making the right choice plays a pivotal role in garnering the relevant experience in one’s desired field.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>As the placement season draws closer, you must be working hard to get your game plan right before your dream companies come to your campus for recruitment. You might be in a phase where your friends and relatives are asking you if you want to get placed in a core company or a service based company but you are not really sure of it because you don’t have a very good idea.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>To make an informed decision, you should have a clear understanding of the kind of work both these companies do, what they look for in candidates while hiring them, what the job security, market scope and pay packages are like in product based companies and service-based companies. In this article, we will clearly tell you the differences between product based companies and service based companies along with the perks and downsides of working in product companies or service based companies.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Firstly, let’s make something very clear, core companies are companies which offer jobs in core areas of engineering like electrical engineering, mechanical engineering etc. Core companies specialize in particular sectors like the infrastructure sector and such companies are valued and known for their level of expertise in their respective areas of specialization.If you are an Electronics and Communication Engineer, TCS or CTS might not be a core company for you unless they are offering you a role related to your specialization which is electronics and communication but TATA communications might be a core company for you.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Now that we got that out of the way, let’s look at the differences between product based companies and service based companies.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>To put it in simple words, a service based company is like a restaurant and a product company is like an ice cream parlor. If you are wondering, both of them are places where you go and have delicious food then how are they different. You usually go to a restaurant and order something and then the food is prepared to suit your taste whereas in an ice cream parlor you usually pick your favorite flavor from a list of flavors that they already have. In other words, service based companies build software or products only when a customer approaches them and asks for a software to be authored according to his needs. A product company on the other hand already has a product which they sell to a wide range of customers or clients.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Some examples of service based companies are TCS, Green Trends Saloon, tailor shops, etc. and some examples of product based companies are Google, Sony, Motorola, Dell etc.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>To help you understand this better, let’s now look at some real-time examples of product based companies and service based companies. Apple is a product company which manufactures products like iPod, Macbook, and the iPhone.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>They manufacture these products in large numbers and stock them, while a company called iCracked which repairs electronic devices like the iPhone is a service based company as it provides a service only when the customer seeks it.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Product based companies</strong>&nbsp;create products&nbsp;like Oracle, Adobe Photoshop and they usually sell it to as many clients as possible. More often than not product based companies sell something tangible while&nbsp;<strong>Service based companies</strong>&nbsp;usually offer services that might not be tangible. For example, a soft skill training institute offers training and helps you pick up new skills. The service offered in this case isn’t tangible. Service based companies like TCS, Wipro etc usually use products (Oracle, Photoshop, Premier Pro) made by product based companies for various purposes.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The products or services offered by a service based company are usually exclusive and customized to suit the specific needs of their clients and they won’t be shared with other clients of theirs. As an employee who has been assigned a specific role the work that you do either of these companies will mostly be the same but the mindset will be very different.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>In a service-based company, the client is King. They want the customer to be happy and satisfied with the product or service offered while in a product based company, quality is king. They want the product to be top-notch so that more people will start consuming it.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"align":"center","id":240,"sizeSlug":"large","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://114.020.myftpupload.comwp-content/uploads/2021/01/image-1.jpeg" alt="" class="wp-image-240"/></figure></div>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>By now, you should have a clear understanding of what a product based company or what a service based company does. But this might not have really helped you pick which company to work for. Let’s look at a few differences that will help you clearly decide between product based companies and service based companies:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2><strong>1. Hiring Candidates</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Product based companies usually hire candidates who have very good domain knowledge and who are familiar with the latest tools and technology. Communication skills may not really matter when it comes to the recruitment process. This only means that you need not have to be good enough to sell the product (unless you are applying for a marketing or a sales role) but you should be fluent enough to convey your ideas effectively.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>If you are aspiring to get into a service based company then your communication skills will be as important as your technical knowledge. In some cases, you will be expected to have extremely good marketing skills and interpersonal skills to be hired for a role in a service based company.Even how you dress and how you present will decide if you get the job or not. It’s necessary for a service based company to hire well-groomed candidates who also have good communication skills, as they have to deal with the clients.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2><strong>2. Job Security and Work Pressure</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>According to various surveys, job security is usually higher in product based companies than service based companies but an employee in a service based company feels more pressure due to the tight deadlines and targets.Recently, it has been observed that service companies tend to hire in large numbers these days and after the training period, most of the hired candidates are benched for several months.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>This is part of the reason why job security is less in service based companies and part-time jobs aren’t usually available in service based firms whereas product based companies usually offer part-time jobs and internships. However, all of this is very subjective and it could differ from company to company.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2><strong>3. Economic Growth</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>On analyzing the data from the last few decades, it is evident that there has been a shift from manufacturing to a service economy. The manufacturing economy has been steadily dropping in the past decade while at the same time; there has been a constant rise in the service economy graph.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="https://i1.faceprep.in/fp/articles/img/54748_1580708608.png" alt="Differences Between Product Based Companies and Service Based Companies"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>According to the World Bank’s graph of&nbsp;Service economy&nbsp;and&nbsp;Manufacturing economy, we can see that from 1996 to 2014, there is a constant downfall in the growth percent in the manufacturing economy while there is a&nbsp;constant increase in the growth percent in the service economy.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2><strong>4. Flow of Business</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Product based companies create or design their products or application in advance even before clients approach them. Once the&nbsp;product&nbsp;is made or application is developed it is opened to the&nbsp;market.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Service based companies&nbsp;work&nbsp;only when a client approaches them with specific needs or requirements. Once the client requests for a particular service from them they start building their product or customizing it to suit the clients’ needs.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2><strong>5. Target Market</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Both Product based companies and service based companies usually target different markets. Product companies can market and sell their products to the global market while service based companies usually cater to the local market. For example, an electronics store can ship its products to any place in the world but a beautician wouldn’t travel far from home. There could be a few exceptions to this.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2><strong>6. Marketing</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Marketing strategies and tactics for product based companies and service based companies will be very different. A product based company will usually invest a lot of money and time in branding to increase the customer awareness of their products and marketing in the case of product companies will be global. On the other hand, service based companies will directly try to target a specific set of people or the local audience and they usually tend to have individualized marketing messages and they focus more on customer experience and customer satisfaction.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>When it comes to business plans, product based companies will try to increase their market share while service based companies will focus primarily on increasing revenue rather than increasing their market share.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2><strong>7. Turnaround Time</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Product based companies have very quick turnaround time as their customers usually make spontaneous and quick purchase decision which may not be the case with service based companies. Service based companies would offer to require multiple iterations and negotiations before a contract or deal comes through.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Last but not the least, you will gain a significant level of expertise in your area of specialization while working in a product based company as you might work years on end on a single product which makes you a valuable asset for the company. This might not necessarily be the case in service based companies.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>237</wp:post_id>
-		<wp:post_date><![CDATA[2021-01-26 10:57:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-01-26 05:27:50]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[differences-between-product-based-companies-and-service-based-companies]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="companies"><![CDATA[Companies]]></category>
-		<category domain="post_tag" nicename="jobs"><![CDATA[Jobs]]></category>
-		<category domain="post_tag" nicename="programming"><![CDATA[Programming]]></category>
-		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wppb_current_post_editor]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wppb_builder_activated]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[21]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[243]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_is_wppb_editor]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>5</wp:comment_id>
+			<wp:comment_author><![CDATA[admin]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[aryaanisha1@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http:</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[127.0.0.1]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-01-29 12:51:50]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-01-29 07:21:50]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Very Interesting and helpful course.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[review]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>1</wp:comment_user_id>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+							</wp:comment>
+					</item>
 				</channel>
 </rss>
 	
